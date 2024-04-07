@@ -4,13 +4,15 @@
         "friendBonusUniques": [
             "[+3 Culture] <before the [Colonization era]>",
             "[+6 Culture] <starting from the [Colonization era]> <before the [Realization era]>",
-            "[+13 Culture] <starting from the [Realization era]>"
+            "[+13 Culture] <starting from the [Realization era]>",
+			"[+2 Culture] from every specialist [in all cities]"
         ],
         "allyBonusUniques": [
             "[+6 Culture] <before the [Colonization era]>",
             "[+12 Culture] <starting from the [Colonization era]> <before the [Realization era]>",
             "[+26 Culture] <starting from the [Realization era]>",
-			"[-5]% Culture cost of adopting new Policies"
+			"[-5]% Culture cost of adopting new Policies",
+			"[+2 Culture] from every specialist [in all cities]"
         ],
         "color": [139, 96, 255]
     },
